@@ -1,0 +1,10 @@
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.exe.config
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.exe
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.pdb
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.csprojResolveAssemblyReference.cache
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.exe
+c:\users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.pdb
+C:\Users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\EntityFramework.dll
+C:\Users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\EntityFramework.xml
+C:\Users\v-subraj\documents\visual studio 2015\Projects\BedrockBank\BedrockBank\bin\Debug\EntityFramework.SqlServer.xml
